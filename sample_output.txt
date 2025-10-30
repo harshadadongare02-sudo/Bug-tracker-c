@@ -1,0 +1,8 @@
+===== SIMPLE BUG TRACKER =====
+1. Add Issue
+2. List Issues
+3. Change Issue Status
+4. Exit
+Enter your choice: 1
+Enter issue title: Login button not working
+✅ Issue added successfully!
